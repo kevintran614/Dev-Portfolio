@@ -28,7 +28,7 @@ const HeroSection = () => {
                 1000,
                 "A Graduate Student",
                 1000,
-                "A Web Developer",
+                "A Software Engineer",
                 1000,
                 "A Matcha Enthusiast",
                 1000,
@@ -40,7 +40,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Hi, I'm Kevin! I am a recent graduate from the University of
-            California, Irvine. Currently, I am completing my MS in Computer
+            California, Irvine. Currently, I am completing my M.S. in Computer
             Science at Georgia Tech. My journey in software engineering is
             driven by a passion for leveraging technology to solve complex,
             real-world challenges. I am passionate about programming, food,
@@ -52,14 +52,14 @@ const HeroSection = () => {
               href="/#contact"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
-              Hire Me
+              Let's Connect
             </Link>
             <Link
               href="/"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Download CV
+                My Resume
               </span>
             </Link>
           </div>
